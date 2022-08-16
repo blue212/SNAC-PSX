@@ -14,7 +14,7 @@ This version has a solder jumper to connect 5v to the 7.6v pin for rumble. You c
 
 -Updates
 
-Added Memory Card add-on board. It uss a 0.8mm thick pcb
+Added Memory Card add-on board. It uses a 0.8mm thick pcb.
 
 ![ASEMBLED](images/assembled.png)
 
