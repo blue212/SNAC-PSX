@@ -1,27 +1,18 @@
 # SNAC
-PSX Accessory converter for MiSTer, by blue212
+N64 Accessory converter for MiSTer, by blue212
 
 
 Serial Native Accessory Converter
 
-SNAC adapter for PSX. This board and psx use 3v3 logic. This is a standalone board, so it's not to used with the SNAC level shifter board. You can use a short male to female usb3.0 extension cable between it and misters USER port.
+SNAC adapter for N64. This board and N64 use 3v3 logic. This is a standalone board, so it's not to used with the SNAC level shifter board. You can use a short male to female usb3.0 extension cable between it and misters USER port.
 
-It has two ports for controllers and a composite port for guncon, also has a header for test points. If a guncon is connected and a justifier isn't the needed signal for Guncon will be output through the composite port.
+It has four ports for controllers which are independently controlled in the OSD.
 
-This version has a solder jumper to connect 5v to the 7.6v pin for rumble. You could not solder the jumper and add external power, but be advised that bad things will happen if you mix up polarity.
+Rumble, transfer, controller paks, vru and microphone all supported.
 
 -TODO 
 
 -Updates
-
-Added Memory Card add-on board. It uses a 0.8mm thick pcb.
-
-Added files for 3D print cases. Designed by DiniertoDesigns
+Added files for 3D print cases. Designed by [DiniertoDesigns](https://www.thingiverse.com/thing:6413967)
 
 ![ASEMBLED](images/assembled.png)
-
-
-![FRONT](images/front.png)
-
-![BACK](images/back.png)
-
